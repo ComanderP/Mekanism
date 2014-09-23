@@ -45,7 +45,7 @@ item.Substrate.name=Substrato
 item.BasicControlCircuit.name=Circuito de Controlo Básico
 item.AdvancedControlCircuit.name=Circuito de Controlo Avançado
 item.EliteControlCircuit.name=Circuito de Controlo de Elite
-item.UltimateControlCircuit.name=Circuito de Controlo Final
+item.UltimateControlCircuit.name=Circuito de Controlo Supremo
 
 //Gas Tank
 tile.GasTank.GasTank.name=Tanque de Gás
@@ -69,81 +69,81 @@ tile.BasicBlock.SteelBlock.name=Bloco de Aço
 tile.BasicBlock.Bin.name=Caixa de Itens
 tile.BasicBlock.TeleporterFrame.name=Moldura do Teletransportador
 tile.BasicBlock.SteelCasing.name=Carcaça de Aço
-tile.BasicBlock.DynamicTank.name=Dynamic Tank
-tile.BasicBlock.DynamicGlass.name=Dynamic Glass
-tile.BasicBlock.DynamicValve.name=Dynamic Valve
-tile.BasicBlock.CopperBlock.name=Copper Block
-tile.BasicBlock.TinBlock.name=Tin Block
-tile.BasicBlock.SalinationController.name=Salination Controller
-tile.BasicBlock.SalinationValve.name=Salination Valve
+tile.BasicBlock.DynamicTank.name=Tanque Dinâmico
+tile.BasicBlock.DynamicGlass.name=Vidro Dinâmico
+tile.BasicBlock.DynamicValve.name=Válvula Dinâmica
+tile.BasicBlock.CopperBlock.name=Bloco de Cobre
+tile.BasicBlock.TinBlock.name=Bloco de Estanho
+tile.BasicBlock.SalinationController.name=Controlador de Salinização
+tile.BasicBlock.SalinationValve.name=Válvula de Salinização
 
 //Basic Block 2 (second ID iteration)
-tile.BasicBlock2.SalinationBlock.name=Salination Block
+tile.BasicBlock2.SalinationBlock.name=Bloco de Salinização
 
 //Machine Block
-tile.MachineBlock.EnrichmentChamber.name=Enrichment Chamber
-tile.MachineBlock.OsmiumCompressor.name=Osmium Compressor
-tile.MachineBlock.Combiner.name=Combiner
-tile.MachineBlock.Crusher.name=Crusher
-tile.MachineBlock.BasicFactory.name=Basic Factory
-tile.MachineBlock.AdvancedFactory.name=Advanced Factory
-tile.MachineBlock.EliteFactory.name=Elite Factory
-tile.MachineBlock.MetallurgicInfuser.name=Metallurgic Infuser
-tile.MachineBlock.PurificationChamber.name=Purification Chamber
-tile.MachineBlock.EnergizedSmelter.name=Energized Smelter
-tile.MachineBlock.Teleporter.name=Teleporter
-tile.MachineBlock.ElectricPump.name=Electric Pump
-tile.MachineBlock.ElectricChest.name=Electric Chest
-tile.MachineBlock.Chargepad.name=Chargepad
-tile.MachineBlock.LogisticalSorter.name=Logistical Sorter
-tile.MachineBlock.DigitalMiner.name=Digital Miner
+tile.MachineBlock.EnrichmentChamber.name=Câmara de Enriquecimento
+tile.MachineBlock.OsmiumCompressor.name=Compressor de Ósmio
+tile.MachineBlock.Combiner.name=Combinador
+tile.MachineBlock.Crusher.name=Triturador
+tile.MachineBlock.BasicFactory.name=Fábrica Básica
+tile.MachineBlock.AdvancedFactory.name=Fábrica Avançada
+tile.MachineBlock.EliteFactory.name=Fábrica de Elite
+tile.MachineBlock.MetallurgicInfuser.name=Infusor Metalúrgico
+tile.MachineBlock.PurificationChamber.name=Câmara de Purificação
+tile.MachineBlock.EnergizedSmelter.name=Fornalha Energizada
+tile.MachineBlock.Teleporter.name=Teletransportador
+tile.MachineBlock.ElectricPump.name=Pump Elétrica
+tile.MachineBlock.ElectricChest.name=Baú Elétrica
+tile.MachineBlock.Chargepad.name=Plataforma Recarregadora
+tile.MachineBlock.LogisticalSorter.name=Classificador Logístico
+tile.MachineBlock.DigitalMiner.name=Mineiro Digital
 
 //Machine Block 2 (second ID iteration)
-tile.MachineBlock2.RotaryCondensentrator.name=Rotary Condensentrator
-tile.MachineBlock2.ChemicalOxidizer.name=Chemical Oxidizer
-tile.MachineBlock2.ChemicalInfuser.name=Chemical Infuser
-tile.MachineBlock2.ChemicalCombiner.name=Chemical Combiner
-tile.MachineBlock2.ChemicalInjectionChamber.name=Chemical Injection Chamber
-tile.MachineBlock2.ElectrolyticSeparator.name=Electrolytic Separator
-tile.MachineBlock2.PrecisionSawmill.name=Precision Sawmill
-tile.MachineBlock2.ChemicalDissolutionChamber.name=Chemical Dissolution Chamber
-tile.MachineBlock2.ChemicalWasher.name=Chemical Washer
-tile.MachineBlock2.ChemicalCrystallizer.name=Chemical Crystallizer
-tile.MachineBlock2.SeismicVibrator.name=Seismic Vibrator
-tile.MachineBlock2.PressurizedReactionChamber.name=Pressurized Reaction Chamber
-tile.MachineBlock2.PressurizedReactionChamber.short.name=PRC
-tile.MachineBlock2.PortableTank.name=Portable Tank
+tile.MachineBlock2.RotaryCondensentrator.name=Condensentrador Rotativo
+tile.MachineBlock2.ChemicalOxidizer.name=Oxidador Químico
+tile.MachineBlock2.ChemicalInfuser.name=Infusor Químico
+tile.MachineBlock2.ChemicalCombiner.name=Combinador Químico
+tile.MachineBlock2.ChemicalInjectionChamber.name=Câmara de Injeção Química
+tile.MachineBlock2.ElectrolyticSeparator.name=Separador Eletrolítico
+tile.MachineBlock2.PrecisionSawmill.name=Serraria de Precisão
+tile.MachineBlock2.ChemicalDissolutionChamber.name=Câmara de Dissolução Química
+tile.MachineBlock2.ChemicalWasher.name=Lavador Químico
+tile.MachineBlock2.ChemicalCrystallizer.name=Cristalizador Químico
+tile.MachineBlock2.SeismicVibrator.name=Vibrador Sísmico
+tile.MachineBlock2.PressurizedReactionChamber.name=Câmara de Reação Pressurizada
+tile.MachineBlock2.PressurizedReactionChamber.short.name=CRP
+tile.MachineBlock2.PortableTank.name=Tanque Portátil
 tile.MachineBlock2.FluidicPlenisher.name=Fluidic Plenisher
 
 //Plastic
-tile.PlasticBlock.name=Plastic Block
-tile.SlickPlasticBlock.name=Slick Plastic Block
-tile.GlowPlasticBlock.name=Plastic Glow Block
-tile.ReinforcedPlasticBlock.name=Reinforced Plastic Block
-tile.RoadPlasticBlock.name=Plastic Road
+tile.PlasticBlock.name=Bloco de Plástico
+tile.SlickPlasticBlock.name=Bloco de Plástico Liso
+tile.GlowPlasticBlock.name=Bloco de Plástico Fluorescente
+tile.ReinforcedPlasticBlock.name=Bloco de Plástico Reforçado
+tile.RoadPlasticBlock.name=Estrada de Plástico
 
-tile.PlasticFence.name=Plastic Barrier
+tile.PlasticFence.name=Barreira de Plástico
 
 //Infuse types
-infuse.carbon=Carbon
-infuse.tin=Tin
-infuse.diamond=Diamond
+infuse.carbon=Carbono
+infuse.tin=Estanho
+infuse.diamond=Diamante
 infuse.redstone=Redstone
-infuse.fungi=Fungi
-infuse.obsidian=Obsidian
+infuse.fungi=Fungos
+infuse.obsidian=Obsidiana
 
 //Ore Block
-tile.OreBlock.OsmiumOre.name=Osmium Ore
-tile.OreBlock.CopperOre.name=Copper Ore
-tile.OreBlock.TinOre.name=Tin Ore
+tile.OreBlock.OsmiumOre.name=Minério de Ósmio
+tile.OreBlock.CopperOre.name=Minério de Cobre
+tile.OreBlock.TinOre.name=Minério de Estanho
 
 //Transmitters
-item.MultipartTransmitter.PressurizedTube.name=Pressurized Tube
-item.MultipartTransmitter.BasicUniversalCable.name=Basic Universal Cable
-item.MultipartTransmitter.AdvancedUniversalCable.name=Advanced Universal Cable
-item.MultipartTransmitter.EliteUniversalCable.name=Elite Universal Cable
-item.MultipartTransmitter.UltimateUniversalCable.name=Ultimate Universal Cable
-item.MultipartTransmitter.BasicMechanicalPipe.name=Basic Mechanical Pipe
+item.MultipartTransmitter.PressurizedTube.name=Tubo Pressurizado
+item.MultipartTransmitter.BasicUniversalCable.name=Cabo Universal Básico
+item.MultipartTransmitter.AdvancedUniversalCable.name=Cabo Universal Avançado
+item.MultipartTransmitter.EliteUniversalCable.name=Cabo Universal de Elite
+item.MultipartTransmitter.UltimateUniversalCable.name=Cabo Universal Supremo
+item.MultipartTransmitter.BasicMechanicalPipe.name=Tubo Mecânico Básico
 item.MultipartTransmitter.AdvancedMechanicalPipe.name=Advanced Mechanical Pipe
 item.MultipartTransmitter.EliteMechanicalPipe.name=Elite Mechanical Pipe
 item.MultipartTransmitter.UltimateMechanicalPipe.name=Ultimate Mechanical Pipe
